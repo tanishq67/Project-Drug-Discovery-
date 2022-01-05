@@ -1,8 +1,7 @@
 # Project-Drug-Discovery-
 `This project is inspired from the knowledge I gain through bioinformatics Machine learning & Data science course given by FreeCodeCamp.`
 
-
-Aromatase is an enzyme that converts androgens into estrogens, which is core reason why breast cancer happens. Aromatase inhibitors (AIs) can eliminate the production of estrogen.
+Breast cancer tissues have been shown to express aromatase and produce higher levels of estrogens than non-cancerous cells. This is one of the main reasons that aromatase has generated a high level of interest for treatment of breast cancer. Aromatase inhibitors (AIs) can eliminate the production of estrogen.
 
 In this project I gathered the data, preprocessed, performed exploratary data analysis on them and then build machine learning models and compared them in order to make predicition as well as to obtain data driven insights that will be useful for the discovery of a drug that may inhibit Aromatase.
 I also deployed my selected model as a web application.
