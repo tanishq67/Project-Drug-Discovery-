@@ -10,7 +10,7 @@ In this project I gathered the data, preprocessed, performed exploratary data an
 
 
 Basic, overview on how I did it.
-- I first collected the Data from the ChEMBL Database and then Pre-Processed it.
+- I first collected the Data from the ChEMBL Database and then Processed it.
 
 - Performed Exploratory Data Analysis (Chemical Space Analysis) via Lipinski descriptors which was calculated from the previous dataset.
 
